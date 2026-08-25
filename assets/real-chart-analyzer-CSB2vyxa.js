@@ -1,0 +1,1 @@
+import{t as e}from"./AppShell-Bhu-gPcI.js";import{D as t}from"./index-YrKqLg4H.js";import{t as n}from"./Analyzer-VccF9f1y.js";var r=t();function i(){return(0,r.jsx)(e,{children:(0,r.jsx)(n,{mode:`real`,title:`Real Chart Analyzer`})})}export{i as component};
